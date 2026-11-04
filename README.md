@@ -52,20 +52,13 @@ d)	Steps to Clean Up (Terminate the Instance)
 
 ## Snap Shots:
 
- <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/26450cb9-255a-4341-a759-d44411bf5466" />
+ <img width="1920" height="1200" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/339ce9ca-096b-46bc-a60c-c0ee3c9d9521" />
+<img width="1920" height="1200" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/6d4ef253-26aa-4ed5-a5ed-97938b9ab72e" />
+<img width="1920" height="1200" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/4a6420c2-6578-479b-ad55-f605b89cc78e" />
+<img width="1920" height="1200" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/61acb975-beb5-48b5-b07b-3e6ff99a8e74" />
+<img width="1920" height="1200" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/fcc8c8d7-60cc-4abb-8c87-72830f1ea0a6" />
+<img width="1920" height="1200" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/9e4ab3a9-5000-4b59-85c1-eb5ed1477544" />
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4ab9390a-8e2f-4322-bf2d-43fe26665296" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b768ba0b-ed30-4bda-8e5c-a42bb254252d" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/02e90d0a-8274-4b3d-ab56-ad6fcfd8052d" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7f09516c-b4c9-41e5-8911-0f241f30b461" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/03309af9-6681-4719-ae59-7f4b6e0280a9" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7f517554-730e-4926-8722-1f3e19a33ede" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c3079e55-e5ff-4809-bc89-7c84ee6d952d" />
-
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9e2ba393-436b-4736-9465-426c04f87d6e" />
 
 ## Result:
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
