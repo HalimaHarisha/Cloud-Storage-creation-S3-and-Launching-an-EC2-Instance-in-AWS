@@ -1,4 +1,6 @@
 # Cloud-Storage-creation-S3-and-Launching-an-EC2-Instance-in-AWS
+## NAME : HALIMA HARISHA A 
+## REG NO:212224040094
 Ex.2 Cloud storage creation (S3) and launching an (Ec2) instance in AWS
 Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS. 
@@ -48,40 +50,23 @@ d)	Steps to Clean Up (Terminate the Instance)
 2.	Select your instance → Instance State → Terminate.
 
 
-Snap Shots:
- 
+## Snap Shots:
 
-Snap Shot 1: Simple Storage Service (S3)
- 
+ <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/26450cb9-255a-4341-a759-d44411bf5466" />
 
-Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4ab9390a-8e2f-4322-bf2d-43fe26665296" />
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b768ba0b-ed30-4bda-8e5c-a42bb254252d" />
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/02e90d0a-8274-4b3d-ab56-ad6fcfd8052d" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7f09516c-b4c9-41e5-8911-0f241f30b461" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/03309af9-6681-4719-ae59-7f4b6e0280a9" />
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7f517554-730e-4926-8722-1f3e19a33ede" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c3079e55-e5ff-4809-bc89-7c84ee6d952d" />
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9e2ba393-436b-4736-9465-426c04f87d6e" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Result:
+## Result:
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
  
